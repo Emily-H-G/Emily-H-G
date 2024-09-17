@@ -3,7 +3,7 @@
 - 🎓​​ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 - 📚 Atualmente aprendendo REACT, Power BI e Cloud Computing.
 - 😄 Pronomes: ela/dela.
-- 📫 linkedin: https://www.linkedin.com/in/emily-oliveira-26810a2a6/
+- 📫 Meu [linkedin](www.linkedin.com/in/emilyoliveirasa).
 - 🥶​ Fun fact: odeio tempo frio.
 
 <!---
