@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Emily
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP, REACT, LARAVEL and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+### Olá, prazer, Emily 👋
+
+- 🎓​​ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+- 📚 Atualmente aprendendo REACT, LARAVEL, e Cloud Computing.
+- 😄 Pronomes: ela/dela.
+- 📫 linkedin: https://www.linkedin.com/in/emily-oliveira-26810a2a6/
+- 🥶​ Fun fact: odeio tempo frio.
 
 <!---
 Emily-H-G/Emily-H-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
